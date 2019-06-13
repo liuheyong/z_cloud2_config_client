@@ -8,8 +8,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/liuheyong/z_cloud2_config_repo.git/
+          uri: https://github.com/liuheyong/z_cloud2_config_repo.git
 #          如果Git仓库需要权限访问
 #          username:
 #          password:
-
+encrypt:
+  key: wenyixicodedog
